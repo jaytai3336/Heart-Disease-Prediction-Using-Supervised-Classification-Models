@@ -54,3 +54,8 @@ Each model was evaluated using:
 
 ```plaintext
 📄 DSA1101 Individual Assignment.docx   # Final report with analysis and visualizations
+
+⚠️ Note: The original `.Rmd` file was unfortunately corrupted and could not be uploaded.
+
+📝 This README was generated with assistance from ChatGPT.
+

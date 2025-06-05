@@ -52,7 +52,6 @@ Each model was evaluated using:
 
 ## 📁 File Structure
 
-```plaintext
 📄 DSA1101 Individual Assignment.docx   # Final report with analysis and visualizations
 
 ⚠️ Note: The original `.Rmd` file was unfortunately corrupted and could not be uploaded.

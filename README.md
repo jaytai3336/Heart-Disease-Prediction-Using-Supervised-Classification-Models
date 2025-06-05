@@ -1,4 +1,4 @@
-# 🫀 Heart Disease Prediction - DSA1101 Individual Assignment
+# Heart Disease Prediction - DSA1101 Individual Assignment
 
 This repository contains the completed individual assignment for **DSA1101: Data Science in Practice**. The task was to analyze a heart disease dataset and determine the most suitable classification model to predict whether a patient is likely to have heart disease based on a variety of medical attributes.
 
